@@ -1,6 +1,6 @@
 # Conjurites
 
-**I'm Aymen aka Conjurites and many names, I consider myself as a Software Developer and CTF Lover (Bug Bounty Hunter in bad times).**
+**I'm Aymen aka Conjurites and many names, I consider myself as a Programmer and CTF Lover (Bug Bounty Hunter in bad times).**
 
 ## Skills:
 
